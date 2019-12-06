@@ -1,0 +1,55 @@
+body {
+  background: #f4f4f4;
+  color: black;
+  font-family: serif;
+}
+.navbar-home {
+    background-color: #333;
+    border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+
+}
+
+.navbar-home .navbar-nav>li>a {
+    color: #fff;
+    font-size: 17px;
+}
+
+.navbar-home .navbar-nav>li>a:hover,
+.navbar-home .navbar-nav>li>a:focus {
+  color: #208075;
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+}
+.navbar-home .navbar-brand:hover,
+.navbar-home .navbar-brand:focus {
+  color: #208075;
+}
+
+.carousel-img {
+    height: 550px;
+}
+
+.about-canvas {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.canvas-types {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.footer {
+  background: #333;
+  color: #fff;
+  letter-spacing: 0.2rem;
+  padding: 30px;
+  font-size: 18px;
+}
